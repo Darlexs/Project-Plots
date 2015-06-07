@@ -1,4 +1,4 @@
-##MY COORSE PROJECT
+##MY COURSE PROJECT
 1. Plot1.png
 2. Plot1.R
 1. Plot2.png
